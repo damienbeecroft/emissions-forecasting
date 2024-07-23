@@ -1,0 +1,8 @@
+region		AT	AT	AT	BC	BC
+sector		Paddy rice	Wheat	Cereal	Vegetables	Sugar cane
+region	sector					
+AT	Paddy rice	0	0	0	0	0
+AT	Wheat	0	0.660258229528	0	0	0
+AT	Cereal	0	0	0.672000620149	0	0
+BC	Vegetables	0	0	0	7.13699083925	0
+BC	Oil seeds	0	0	0	0	0.0491145408265
